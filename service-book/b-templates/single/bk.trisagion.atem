@@ -1,0 +1,118 @@
+Template bk.trisagion
+
+Status Review
+
+	import trisagion_en_uk_lash.*
+
+	import iTags.*
+	import bTags.*
+	import roles.*
+
+	Head
+		Page_Header_Even
+			center @text "SERVICE OF THE TRISAGION FOR THE DEPARTED"
+		End_Page_Header_Even
+		Page_Header_Odd
+			center @text "SERVICE OF THE TRISAGION FOR THE DEPARTED"
+		End_Page_Header_Odd
+		Page_Footer_Even
+			center @pageNbr
+		End_Page_Footer_Even
+		Page_Footer_Odd
+			center @pageNbr
+		End_Page_Footer_Odd
+		Set_Page_Number 1 End_Set_Page_Number
+	End_Head
+
+		Dialog sid p0001 End-Dialog
+		Dialog sid p0002 End-Dialog
+		Actor sid p0003 End-Actor
+		Dialog sid p0004 End-Dialog
+		Dialog sid p0005 End-Dialog
+		Dialog sid p0006 End-Dialog
+		Dialog sid p0007 End-Dialog
+		Dialog sid p0008 End-Dialog
+		Dialog sid p0009 End-Dialog
+		Actor sid p0010 End-Actor
+		Dialog sid p0011 End-Dialog
+		Actor sid p0012 End-Actor
+		Dialog sid p0013 End-Dialog
+		Dialog sid p0014 End-Dialog
+		Dialog sid p0015 End-Dialog
+		Dialog sid p0016 End-Dialog
+		Actor sid p0017 End-Actor
+		Dialog sid p0018 End-Dialog
+		Dialog sid p0019 End-Dialog
+		Dialog sid p0020 End-Dialog
+		Dialog sid p0021 End-Dialog
+		Dialog sid p0022 End-Dialog
+		Dialog sid p0023 End-Dialog
+		Dialog sid p0024 End-Dialog
+		Dialog sid p0025 End-Dialog
+		Dialog sid p0026 End-Dialog
+		Dialog sid p0027 End-Dialog
+		Dialog sid p0028 End-Dialog
+		Dialog sid p0029 End-Dialog
+		Dialog sid p0030 End-Dialog
+		Dialog sid p0031 End-Dialog
+		Dialog sid p0032 End-Dialog
+		Dialog sid p0033 End-Dialog
+		Dialog sid p0034 End-Dialog
+		Dialog sid p0035 End-Dialog
+		Dialog sid p0036 End-Dialog
+		Dialog sid p0037 End-Dialog
+		Actor sid p0038 End-Actor
+		Dialog sid p0039 End-Dialog
+		Dialog sid p0040 End-Dialog
+		Dialog sid p0041 End-Dialog
+		Actor sid p0042 End-Actor
+		Dialog sid p0043 End-Dialog
+		Actor sid p0044 End-Actor
+		Dialog sid p0045 End-Dialog
+		Dialog sid p0046 End-Dialog
+		Actor sid p0047 End-Actor
+		Dialog sid p0048 End-Dialog
+		Dialog sid p0049 End-Dialog
+		Dialog sid p0050 End-Dialog
+		Actor sid p0051 End-Actor
+		Actor sid p0052 End-Actor
+		Actor sid p0053 End-Actor
+		Dialog sid p0054 End-Dialog
+		Actor sid p0055 End-Actor
+		Actor sid p0056 End-Actor
+		Dialog sid p0057 End-Dialog
+		Actor sid p0058 End-Actor
+		Actor sid p0059 End-Actor
+		Dialog sid p0060 End-Dialog
+		Actor sid p0061 End-Actor
+		Dialog sid p0062 End-Dialog
+		Dialog sid p0063 End-Dialog
+		Actor sid p0064 End-Actor
+		Dialog sid p0065 End-Dialog
+		Dialog sid p0066 End-Dialog
+		Actor sid p0067 End-Actor
+		Dialog sid p0068 End-Dialog
+		Actor sid p0069 End-Actor
+		Dialog sid p0070 End-Dialog
+		Dialog sid p0071 End-Dialog
+		Dialog sid p0072 End-Dialog
+		Actor sid p0073 End-Actor
+		Dialog sid p0074 End-Dialog
+		Dialog sid p0075 End-Dialog
+		Dialog sid p0076 End-Dialog
+		Dialog sid p0077 End-Dialog
+		Actor sid p0078 End-Actor
+		Dialog sid p0079 End-Dialog
+		Dialog sid p0080 End-Dialog
+		Actor sid p0081 End-Actor
+		Actor sid p0082 End-Actor
+		Actor sid p0083 End-Actor
+		Dialog sid p0084 End-Dialog
+		Actor sid p0085 End-Actor
+		Actor sid p0086 End-Actor
+		Dialog sid p0087 End-Dialog
+		Actor sid p0088 End-Actor
+		Actor sid p0089 End-Actor
+		Dialog sid p0090 End-Dialog
+		Dialog sid p0091 End-Dialog
+End-Template

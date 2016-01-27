@@ -1,0 +1,24 @@
+Template bk_priests.service 
+	Status NA
+	Head
+		Page_Header_Even
+			center @text "SERVICE OF MATRIMONY"
+		End_Page_Header_Even
+		Page_Header_Odd
+			center @text "SERVICE OF MATRIMONY"
+		End_Page_Header_Odd
+		Page_Footer_Even
+			left @text "PRIEST'S SERVICE BOOK"
+			right @pageNbr
+		End_Page_Footer_Even
+		Page_Footer_Odd
+			left @pageNbr
+			right @text "PRIEST'S SERVICE BOOK"
+		End_Page_Footer_Odd
+		Set_Page_Number 1 End_Set_Page_Number
+	End_Head
+	
+	Insert_template bk.weddingbetrothal End-Insert
+	Insert_template bk.weddingcrowning End-Insert
+	
+End-Template

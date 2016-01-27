@@ -1,0 +1,97 @@
+Template bk.weddingbetrothal
+
+Status Review
+
+	import weddingbetrothal_en_uk_lash.*
+
+	import iTags.*
+	import bTags.*
+	import roles.*
+
+	Head
+		Page_Header_Even
+			center @text "SERVICE OF BETROTHAL"
+		End_Page_Header_Even
+		Page_Header_Odd
+			center @text "SERVICE OF BETROTHAL"
+		End_Page_Header_Odd
+		Page_Footer_Even
+			center @pageNbr
+		End_Page_Footer_Even
+		Page_Footer_Odd
+			center @pageNbr
+		End_Page_Footer_Odd
+		Set_Page_Number 1 End_Set_Page_Number
+	End_Head
+
+		Title sid p0001 End-Title
+		Dialog sid p0002 End-Dialog
+		Dialog sid p0003 End-Dialog
+		Dialog sid p0004 End-Dialog
+		Dialog sid p0005 End-Dialog
+		Actor sid p0006 End-Actor
+		Dialog sid p0007 End-Dialog
+		Actor sid p0008 End-Actor
+		Dialog sid p0009 End-Dialog
+		Actor sid p0010 End-Actor
+		Dialog sid p0011 End-Dialog
+		Actor sid p0012 End-Actor
+		Dialog sid p0013 End-Dialog
+		Actor sid p0014 End-Actor
+		Dialog sid p0015 End-Dialog
+		Dialog sid p0016 End-Dialog
+		Dialog sid p0017 End-Dialog
+		Actor sid p0018 End-Actor
+		Dialog sid p0019 End-Dialog
+		Dialog sid p0020 End-Dialog
+		Dialog sid p0021 End-Dialog
+		Dialog sid p0022 End-Dialog
+		Dialog sid p0023 End-Dialog
+		Dialog sid p0024 End-Dialog
+		Dialog sid p0025 End-Dialog
+		Dialog sid p0026 End-Dialog
+		Dialog sid p0027 End-Dialog
+		Dialog sid p0028 End-Dialog
+		Actor sid p0029 End-Actor
+		Dialog sid p0030 End-Dialog
+		Actor sid p0031 End-Actor
+		Actor sid p0032 End-Actor
+		Dialog sid p0033 End-Dialog
+		Actor sid p0034 End-Actor
+		Dialog sid p0035 End-Dialog
+		Actor sid p0036 End-Actor
+		Dialog sid p0037 End-Dialog
+		Dialog sid p0038 End-Dialog
+		Dialog sid p0039 End-Dialog
+		Dialog sid p0040 End-Dialog
+		Actor sid p0041 End-Actor
+		Dialog sid p0042 End-Dialog
+		Actor sid p0043 End-Actor
+		Dialog sid p0044 End-Dialog
+		Actor sid p0045 End-Actor
+		Dialog sid p0046 End-Dialog
+		Actor sid p0047 End-Actor
+		Dialog sid p0048 End-Dialog
+		Actor sid p0049 End-Actor
+		Dialog sid p0050 End-Dialog
+		Actor sid p0051 End-Actor
+		Dialog sid p0052 End-Dialog
+		Dialog sid p0053 End-Dialog
+		Actor sid p0054 End-Actor
+		Dialog sid p0055 End-Dialog
+		Actor sid p0056 End-Actor
+		Dialog sid p0057 End-Dialog
+		Dialog sid p0058 End-Dialog
+		Dialog sid p0059 End-Dialog
+		Dialog sid p0060 End-Dialog
+		Dialog sid p0061 End-Dialog
+		Actor sid p0062 End-Actor
+		Dialog sid p0063 End-Dialog
+		Actor sid p0064 End-Actor
+		Dialog sid p0065 End-Dialog
+		Actor sid p0066 End-Actor
+		Dialog sid p0067 End-Dialog
+		Actor sid p0068 End-Actor
+		Dialog sid p0069 End-Dialog
+		Dialog sid p0070 End-Dialog
+End-Template

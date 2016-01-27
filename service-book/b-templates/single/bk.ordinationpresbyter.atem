@@ -1,0 +1,61 @@
+Template bk.ordinationpresbyter
+
+Status Review
+
+	import ordinationpresbyter_en_uk_lash.*
+
+	import iTags.*
+	import bTags.*
+	import roles.*
+
+	Head
+		Page_Header_Even
+			center @text "ORDER FOR THE ORDINATION OF A PRESBYTER"
+		End_Page_Header_Even
+		Page_Header_Odd
+			center @text "ORDER FOR THE ORDINATION OF A PRESBYTER"
+		End_Page_Header_Odd
+		Page_Footer_Even
+			center @pageNbr
+		End_Page_Footer_Even
+		Page_Footer_Odd
+			center @pageNbr
+		End_Page_Footer_Odd
+		Set_Page_Number 1 End_Set_Page_Number
+	End_Head
+
+		Dialog sid p0001 End-Dialog
+		Dialog sid p0002 End-Dialog
+		Dialog sid p0003 End-Dialog
+		Dialog sid p0004 End-Dialog
+		Dialog sid p0005 End-Dialog
+		Dialog sid p0006 End-Dialog
+		Dialog sid p0007 End-Dialog
+		Dialog sid p0008 End-Dialog
+		Dialog sid p0009 End-Dialog
+		Dialog sid p0010 End-Dialog
+		Dialog sid p0011 End-Dialog
+		Dialog sid p0012 End-Dialog
+		Dialog sid p0013 End-Dialog
+		Dialog sid p0014 End-Dialog
+		Dialog sid p0015 End-Dialog
+		Dialog sid p0016 End-Dialog
+		Actor sid p0017 End-Actor
+		Dialog sid p0018 End-Dialog
+		Dialog sid p0019 End-Dialog
+		Dialog sid p0020 End-Dialog
+		Dialog sid p0021 End-Dialog
+		Dialog sid p0022 End-Dialog
+		Dialog sid p0023 End-Dialog
+		Dialog sid p0024 End-Dialog
+		Dialog sid p0025 End-Dialog
+		Dialog sid p0026 End-Dialog
+		Dialog sid p0027 End-Dialog
+		Dialog sid p0028 End-Dialog
+		Dialog sid p0029 End-Dialog
+		Dialog sid p0030 End-Dialog
+		Dialog sid p0031 End-Dialog
+		Dialog sid p0032 End-Dialog
+		Dialog sid p0033 End-Dialog
+		Dialog sid p0034 End-Dialog
+End-Template

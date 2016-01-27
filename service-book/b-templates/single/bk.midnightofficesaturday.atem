@@ -1,0 +1,40 @@
+Template bk.midnightofficesaturday
+
+Status Review
+
+	import midnightofficesaturday_en_uk_lash.*
+
+	import iTags.*
+	import bTags.*
+	import roles.*
+
+	Head
+		Page_Header_Even
+			center @text "SATURDAY MIDNIGHT OFFICE"
+		End_Page_Header_Even
+		Page_Header_Odd
+			center @text "SATURDAY MIDNIGHT OFFICE"
+		End_Page_Header_Odd
+		Page_Footer_Even
+			center @pageNbr
+		End_Page_Footer_Even
+		Page_Footer_Odd
+			center @pageNbr
+		End_Page_Footer_Odd
+		Set_Page_Number 1 End_Set_Page_Number
+	End_Head
+
+		Dialog sid p0001 End-Dialog
+		Dialog sid p0002 End-Dialog
+		Dialog sid p0003 End-Dialog
+		Dialog sid p0004 End-Dialog
+		Dialog sid p0005 End-Dialog
+		Dialog sid p0006 End-Dialog
+		Dialog sid p0007 End-Dialog
+		Dialog sid p0008 End-Dialog
+		Dialog sid p0009 End-Dialog
+		Dialog sid p0010 End-Dialog
+		Dialog sid p0011 End-Dialog
+		Dialog sid p0012 End-Dialog
+		Dialog sid p0013 End-Dialog
+End-Template

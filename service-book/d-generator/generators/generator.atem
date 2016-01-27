@@ -1,0 +1,24 @@
+Template generator
+/**
+ * Examples of regular expressions
+ * 
+ * se.m03.d(01|02|03).(ve|li|ma).atem
+ * 	Generate using all templates whose filename matches this
+ * 
+ * Note: Generation_Driver templates are applied only to the templates
+ * that reside in the same project as the Generation_Driver template.
+ */
+
+	Generation_Driver
+
+		Service_Regular_Expression "bk.*.atem"
+		Service_Status Review
+	
+	End_Generation_Driver
+	
+	//02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26
+	//|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31
+//	01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31
+	//ve|pl|co|ma|li|gh|vl|mo
+	
+End-Template

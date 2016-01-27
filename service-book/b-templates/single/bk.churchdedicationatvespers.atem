@@ -1,0 +1,88 @@
+Template bk.churchdedicationatvespers
+
+Status Review
+
+	import churchdedicationatvespers_en_uk_lash.*
+
+	import iTags.*
+	import bTags.*
+	import roles.*
+
+	Head
+		Page_Header_Even
+			center @text "AT GREAT VESPERS"
+		End_Page_Header_Even
+		Page_Header_Odd
+			center @text "AT GREAT VESPERS"
+		End_Page_Header_Odd
+		Page_Footer_Even
+			center @pageNbr
+		End_Page_Footer_Even
+		Page_Footer_Odd
+			center @pageNbr
+		End_Page_Footer_Odd
+		Set_Page_Number 1 End_Set_Page_Number
+	End_Head
+
+		Dialog sid p0001 End-Dialog
+		Dialog sid p0002 End-Dialog
+		Dialog sid p0003 End-Dialog
+		Dialog sid p0004 End-Dialog
+		Dialog sid p0005 End-Dialog
+		Dialog sid p0006 End-Dialog
+		Dialog sid p0007 End-Dialog
+		Dialog sid p0008 End-Dialog
+		Dialog sid p0009 End-Dialog
+		Dialog sid p0010 End-Dialog
+		Dialog sid p0011 End-Dialog
+		Dialog sid p0012 End-Dialog
+		Dialog sid p0013 End-Dialog
+		Dialog sid p0014 End-Dialog
+		Dialog sid p0015 End-Dialog
+		Dialog sid p0016 End-Dialog
+		Dialog sid p0017 End-Dialog
+		Dialog sid p0018 End-Dialog
+		Dialog sid p0019 End-Dialog
+		Dialog sid p0020 End-Dialog
+		Dialog sid p0021 End-Dialog
+		Dialog sid p0022 End-Dialog
+		Dialog sid p0023 End-Dialog
+		Dialog sid p0024 End-Dialog
+		Dialog sid p0025 End-Dialog
+		Dialog sid p0026 End-Dialog
+		Dialog sid p0027 End-Dialog
+		Dialog sid p0028 End-Dialog
+		Dialog sid p0029 End-Dialog
+		Dialog sid p0030 End-Dialog
+		Dialog sid p0031 End-Dialog
+		Dialog sid p0032 End-Dialog
+		Dialog sid p0033 End-Dialog
+		Dialog sid p0034 End-Dialog
+		Dialog sid p0035 End-Dialog
+		Dialog sid p0036 End-Dialog
+		Dialog sid p0037 End-Dialog
+		Dialog sid p0038 End-Dialog
+		Dialog sid p0039 End-Dialog
+		Dialog sid p0040 End-Dialog
+		Dialog sid p0041 End-Dialog
+		Dialog sid p0042 End-Dialog
+		Dialog sid p0043 End-Dialog
+		Dialog sid p0044 End-Dialog
+		Dialog sid p0045 End-Dialog
+		Actor sid p0046 End-Actor
+		Dialog sid p0047 End-Dialog
+		Dialog sid p0048 End-Dialog
+		Actor sid p0049 End-Actor
+		Dialog sid p0050 End-Dialog
+		Dialog sid p0051 End-Dialog
+		Actor sid p0052 End-Actor
+		Dialog sid p0053 End-Dialog
+		Dialog sid p0054 End-Dialog
+		Actor sid p0055 End-Actor
+		Dialog sid p0056 End-Dialog
+		Dialog sid p0057 End-Dialog
+		Dialog sid p0058 End-Dialog
+		Dialog sid p0059 End-Dialog
+		Dialog sid p0060 End-Dialog
+		Dialog sid p0061 End-Dialog
+End-Template
