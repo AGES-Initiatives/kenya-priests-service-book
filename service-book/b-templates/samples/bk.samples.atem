@@ -1,4 +1,5 @@
 Template bk.samples 
+// this shows you what various tags do for formatting
 	Actor sid samples.sample1 End-Actor
 	Dialog sid samples.sample2 End-Dialog
 	Hymn sid samples.sample3 End-Hymn
