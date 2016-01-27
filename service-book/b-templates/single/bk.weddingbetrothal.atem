@@ -1,6 +1,6 @@
 Template bk.weddingbetrothal
 
-Status Review
+Status Draft
 
 	import weddingbetrothal_en_uk_lash.*
 
@@ -24,7 +24,7 @@ Status Review
 		Set_Page_Number 1 End_Set_Page_Number
 	End_Head
 
-		Title sid p0001 End-Title
+		Dialog sid p0001 End-Dialog
 		Dialog sid p0002 End-Dialog
 		Dialog sid p0003 End-Dialog
 		Dialog sid p0004 End-Dialog

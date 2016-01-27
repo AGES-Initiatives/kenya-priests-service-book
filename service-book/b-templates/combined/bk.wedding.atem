@@ -14,6 +14,6 @@ Template bk.wedding
 		End_Page_Footer_Odd
 		Set_Page_Number 1 End_Set_Page_Number
 	End_Head
-	Insert_template bk.weddingbetrothal End-Insert
-	Insert_template bk.weddingcrowning End-Insert
+//	Insert_template bk.weddingbetrothal End-Insert
+//	Insert_template bk.weddingcrowning End-Insert
 End-Template

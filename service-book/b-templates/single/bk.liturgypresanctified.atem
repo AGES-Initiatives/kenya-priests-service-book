@@ -1,6 +1,6 @@
 Template bk.liturgypresanctified
 
-Status Review
+Status Draft
 
 	import liturgypresanctified_en_uk_lash.*
 
@@ -10,10 +10,10 @@ Status Review
 
 	Head
 		Page_Header_Even
-			center @text ""
+			center @text "INTRODUCTION"
 		End_Page_Header_Even
 		Page_Header_Odd
-			center @text ""
+			center @text "INTRODUCTION"
 		End_Page_Header_Odd
 		Page_Footer_Even
 			center @pageNbr
@@ -39,16 +39,16 @@ Status Review
 		Dialog sid p0013 End-Dialog
 		Dialog sid p0014 End-Dialog
 		Dialog sid p0015 End-Dialog
-		Dialog sid p0016 End-Dialog
-		Actor sid p0017 End-Actor
-		Dialog sid p0018 End-Dialog
-		Actor sid p0019 End-Actor
-		Dialog sid p0020 End-Dialog
-		Actor sid p0021 End-Actor
+		Actor sid p0016 End-Actor
+		Dialog sid p0017 End-Dialog
+		Actor sid p0018 End-Actor
+		Dialog sid p0019 End-Dialog
+		Actor sid p0020 End-Actor
+		Dialog sid p0021 End-Dialog
 		Dialog sid p0022 End-Dialog
 		Dialog sid p0023 End-Dialog
-		Dialog sid p0024 End-Dialog
-		Actor sid p0025 End-Actor
+		Actor sid p0024 End-Actor
+		Dialog sid p0025 End-Dialog
 		Dialog sid p0026 End-Dialog
 		Dialog sid p0027 End-Dialog
 		Dialog sid p0028 End-Dialog
@@ -56,73 +56,73 @@ Status Review
 		Dialog sid p0030 End-Dialog
 		Dialog sid p0031 End-Dialog
 		Dialog sid p0032 End-Dialog
-		Dialog sid p0033 End-Dialog
-		Actor sid p0034 End-Actor
+		Actor sid p0033 End-Actor
+		Dialog sid p0034 End-Dialog
 		Dialog sid p0035 End-Dialog
 		Dialog sid p0036 End-Dialog
 		Dialog sid p0037 End-Dialog
-		Dialog sid p0038 End-Dialog
+		Actor sid p0038 End-Actor
 		Actor sid p0039 End-Actor
-		Actor sid p0040 End-Actor
+		Dialog sid p0040 End-Dialog
 		Dialog sid p0041 End-Dialog
 		Dialog sid p0042 End-Dialog
-		Dialog sid p0043 End-Dialog
-		Actor sid p0044 End-Actor
-		Dialog sid p0045 End-Dialog
-		Actor sid p0046 End-Actor
-		Dialog sid p0047 End-Dialog
-		Actor sid p0048 End-Actor
-		Dialog sid p0049 End-Dialog
-		Actor sid p0050 End-Actor
-		Dialog sid p0051 End-Dialog
-		Actor sid p0052 End-Actor
-		Dialog sid p0053 End-Dialog
-		Actor sid p0054 End-Actor
-		Dialog sid p0055 End-Dialog
-		Actor sid p0056 End-Actor
+		Actor sid p0043 End-Actor
+		Dialog sid p0044 End-Dialog
+		Actor sid p0045 End-Actor
+		Dialog sid p0046 End-Dialog
+		Actor sid p0047 End-Actor
+		Dialog sid p0048 End-Dialog
+		Actor sid p0049 End-Actor
+		Dialog sid p0050 End-Dialog
+		Actor sid p0051 End-Actor
+		Dialog sid p0052 End-Dialog
+		Actor sid p0053 End-Actor
+		Dialog sid p0054 End-Dialog
+		Actor sid p0055 End-Actor
+		Dialog sid p0056 End-Dialog
 		Dialog sid p0057 End-Dialog
-		Dialog sid p0058 End-Dialog
+		Actor sid p0058 End-Actor
 		Actor sid p0059 End-Actor
-		Actor sid p0060 End-Actor
+		Dialog sid p0060 End-Dialog
 		Dialog sid p0061 End-Dialog
-		Dialog sid p0062 End-Dialog
-		Actor sid p0063 End-Actor
-		Dialog sid p0064 End-Dialog
-		Actor sid p0065 End-Actor
-		Dialog sid p0066 End-Dialog
-		Actor sid p0067 End-Actor
-		Dialog sid p0068 End-Dialog
-		Actor sid p0069 End-Actor
-		Dialog sid p0070 End-Dialog
-		Actor sid p0071 End-Actor
-		Dialog sid p0072 End-Dialog
-		Actor sid p0073 End-Actor
-		Dialog sid p0074 End-Dialog
-		Actor sid p0075 End-Actor
+		Actor sid p0062 End-Actor
+		Dialog sid p0063 End-Dialog
+		Actor sid p0064 End-Actor
+		Dialog sid p0065 End-Dialog
+		Actor sid p0066 End-Actor
+		Dialog sid p0067 End-Dialog
+		Actor sid p0068 End-Actor
+		Dialog sid p0069 End-Dialog
+		Actor sid p0070 End-Actor
+		Dialog sid p0071 End-Dialog
+		Actor sid p0072 End-Actor
+		Dialog sid p0073 End-Dialog
+		Actor sid p0074 End-Actor
+		Dialog sid p0075 End-Dialog
 		Dialog sid p0076 End-Dialog
-		Dialog sid p0077 End-Dialog
+		Actor sid p0077 End-Actor
 		Actor sid p0078 End-Actor
-		Actor sid p0079 End-Actor
+		Dialog sid p0079 End-Dialog
 		Dialog sid p0080 End-Dialog
-		Dialog sid p0081 End-Dialog
-		Actor sid p0082 End-Actor
-		Dialog sid p0083 End-Dialog
-		Actor sid p0084 End-Actor
-		Dialog sid p0085 End-Dialog
-		Actor sid p0086 End-Actor
-		Dialog sid p0087 End-Dialog
-		Actor sid p0088 End-Actor
-		Dialog sid p0089 End-Dialog
-		Actor sid p0090 End-Actor
-		Dialog sid p0091 End-Dialog
-		Actor sid p0092 End-Actor
-		Dialog sid p0093 End-Dialog
-		Actor sid p0094 End-Actor
+		Actor sid p0081 End-Actor
+		Dialog sid p0082 End-Dialog
+		Actor sid p0083 End-Actor
+		Dialog sid p0084 End-Dialog
+		Actor sid p0085 End-Actor
+		Dialog sid p0086 End-Dialog
+		Actor sid p0087 End-Actor
+		Dialog sid p0088 End-Dialog
+		Actor sid p0089 End-Actor
+		Dialog sid p0090 End-Dialog
+		Actor sid p0091 End-Actor
+		Dialog sid p0092 End-Dialog
+		Actor sid p0093 End-Actor
+		Dialog sid p0094 End-Dialog
 		Dialog sid p0095 End-Dialog
-		Dialog sid p0096 End-Dialog
-		Actor sid p0097 End-Actor
-		Dialog sid p0098 End-Dialog
-		Actor sid p0099 End-Actor
+		Actor sid p0096 End-Actor
+		Dialog sid p0097 End-Dialog
+		Actor sid p0098 End-Actor
+		Dialog sid p0099 End-Dialog
 		Dialog sid p0100 End-Dialog
 		Dialog sid p0101 End-Dialog
 		Dialog sid p0102 End-Dialog
@@ -131,54 +131,54 @@ Status Review
 		Dialog sid p0105 End-Dialog
 		Dialog sid p0106 End-Dialog
 		Dialog sid p0107 End-Dialog
-		Dialog sid p0108 End-Dialog
-		Actor sid p0109 End-Actor
+		Actor sid p0108 End-Actor
+		Dialog sid p0109 End-Dialog
 		Dialog sid p0110 End-Dialog
 		Dialog sid p0111 End-Dialog
-		Dialog sid p0112 End-Dialog
-		Actor sid p0113 End-Actor
-		Dialog sid p0114 End-Dialog
-		Actor sid p0115 End-Actor
+		Actor sid p0112 End-Actor
+		Dialog sid p0113 End-Dialog
+		Actor sid p0114 End-Actor
+		Dialog sid p0115 End-Dialog
 		Dialog sid p0116 End-Dialog
 		Dialog sid p0117 End-Dialog
 		Dialog sid p0118 End-Dialog
 		Dialog sid p0119 End-Dialog
 		Dialog sid p0120 End-Dialog
-		Dialog sid p0121 End-Dialog
-		Actor sid p0122 End-Actor
-		Dialog sid p0123 End-Dialog
-		Actor sid p0124 End-Actor
-		Dialog sid p0125 End-Dialog
-		Actor sid p0126 End-Actor
-		Dialog sid p0127 End-Dialog
-		Actor sid p0128 End-Actor
-		Dialog sid p0129 End-Dialog
-		Actor sid p0130 End-Actor
-		Dialog sid p0131 End-Dialog
-		Actor sid p0132 End-Actor
-		Dialog sid p0133 End-Dialog
-		Actor sid p0134 End-Actor
-		Dialog sid p0135 End-Dialog
-		Actor sid p0136 End-Actor
+		Actor sid p0121 End-Actor
+		Dialog sid p0122 End-Dialog
+		Actor sid p0123 End-Actor
+		Dialog sid p0124 End-Dialog
+		Actor sid p0125 End-Actor
+		Dialog sid p0126 End-Dialog
+		Actor sid p0127 End-Actor
+		Dialog sid p0128 End-Dialog
+		Actor sid p0129 End-Actor
+		Dialog sid p0130 End-Dialog
+		Actor sid p0131 End-Actor
+		Dialog sid p0132 End-Dialog
+		Actor sid p0133 End-Actor
+		Dialog sid p0134 End-Dialog
+		Actor sid p0135 End-Actor
+		Dialog sid p0136 End-Dialog
 		Dialog sid p0137 End-Dialog
-		Dialog sid p0138 End-Dialog
-		Actor sid p0139 End-Actor
-		Dialog sid p0140 End-Dialog
-		Actor sid p0141 End-Actor
+		Actor sid p0138 End-Actor
+		Dialog sid p0139 End-Dialog
+		Actor sid p0140 End-Actor
+		Dialog sid p0141 End-Dialog
 		Dialog sid p0142 End-Dialog
-		Dialog sid p0143 End-Dialog
-		Actor sid p0144 End-Actor
+		Actor sid p0143 End-Actor
+		Dialog sid p0144 End-Dialog
 		Dialog sid p0145 End-Dialog
 		Dialog sid p0146 End-Dialog
-		Dialog sid p0147 End-Dialog
-		Actor sid p0148 End-Actor
-		Dialog sid p0149 End-Dialog
-		Actor sid p0150 End-Actor
-		Dialog sid p0151 End-Dialog
-		Actor sid p0152 End-Actor
+		Actor sid p0147 End-Actor
+		Dialog sid p0148 End-Dialog
+		Actor sid p0149 End-Actor
+		Dialog sid p0150 End-Dialog
+		Actor sid p0151 End-Actor
+		Dialog sid p0152 End-Dialog
 		Dialog sid p0153 End-Dialog
-		Dialog sid p0154 End-Dialog
-		Actor sid p0155 End-Actor
+		Actor sid p0154 End-Actor
+		Dialog sid p0155 End-Dialog
 		Dialog sid p0156 End-Dialog
 		Dialog sid p0157 End-Dialog
 		Dialog sid p0158 End-Dialog
@@ -197,21 +197,21 @@ Status Review
 		Dialog sid p0171 End-Dialog
 		Dialog sid p0172 End-Dialog
 		Dialog sid p0173 End-Dialog
-		Dialog sid p0174 End-Dialog
-		Actor sid p0175 End-Actor
-		Dialog sid p0176 End-Dialog
-		Actor sid p0177 End-Actor
-		Dialog sid p0178 End-Dialog
-		Actor sid p0179 End-Actor
+		Actor sid p0174 End-Actor
+		Dialog sid p0175 End-Dialog
+		Actor sid p0176 End-Actor
+		Dialog sid p0177 End-Dialog
+		Actor sid p0178 End-Actor
+		Dialog sid p0179 End-Dialog
 		Dialog sid p0180 End-Dialog
-		Dialog sid p0181 End-Dialog
-		Actor sid p0182 End-Actor
-		Dialog sid p0183 End-Dialog
+		Actor sid p0181 End-Actor
+		Dialog sid p0182 End-Dialog
+		Actor sid p0183 End-Actor
 		Actor sid p0184 End-Actor
-		Actor sid p0185 End-Actor
+		Dialog sid p0185 End-Dialog
 		Dialog sid p0186 End-Dialog
-		Dialog sid p0187 End-Dialog
-		Actor sid p0188 End-Actor
+		Actor sid p0187 End-Actor
+		Dialog sid p0188 End-Dialog
 		Dialog sid p0189 End-Dialog
 		Dialog sid p0190 End-Dialog
 		Dialog sid p0191 End-Dialog
@@ -220,82 +220,82 @@ Status Review
 		Dialog sid p0194 End-Dialog
 		Dialog sid p0195 End-Dialog
 		Dialog sid p0196 End-Dialog
-		Dialog sid p0197 End-Dialog
-		Actor sid p0198 End-Actor
+		Actor sid p0197 End-Actor
+		Dialog sid p0198 End-Dialog
 		Dialog sid p0199 End-Dialog
 		Dialog sid p0200 End-Dialog
 		Dialog sid p0201 End-Dialog
-		Dialog sid p0202 End-Dialog
-		Actor sid p0203 End-Actor
-		Dialog sid p0204 End-Dialog
-		Actor sid p0205 End-Actor
-		Dialog sid p0206 End-Dialog
-		Actor sid p0207 End-Actor
-		Dialog sid p0208 End-Dialog
-		Actor sid p0209 End-Actor
+		Actor sid p0202 End-Actor
+		Dialog sid p0203 End-Dialog
+		Actor sid p0204 End-Actor
+		Dialog sid p0205 End-Dialog
+		Actor sid p0206 End-Actor
+		Dialog sid p0207 End-Dialog
+		Actor sid p0208 End-Actor
+		Dialog sid p0209 End-Dialog
 		Dialog sid p0210 End-Dialog
 		Dialog sid p0211 End-Dialog
-		Dialog sid p0212 End-Dialog
-		Actor sid p0213 End-Actor
+		Actor sid p0212 End-Actor
+		Dialog sid p0213 End-Dialog
 		Dialog sid p0214 End-Dialog
 		Dialog sid p0215 End-Dialog
 		Dialog sid p0216 End-Dialog
-		Dialog sid p0217 End-Dialog
-		Actor sid p0218 End-Actor
-		Dialog sid p0219 End-Dialog
-		Actor sid p0220 End-Actor
-		Dialog sid p0221 End-Dialog
-		Actor sid p0222 End-Actor
-		Dialog sid p0223 End-Dialog
-		Actor sid p0224 End-Actor
-		Dialog sid p0225 End-Dialog
-		Actor sid p0226 End-Actor
-		Dialog sid p0227 End-Dialog
-		Actor sid p0228 End-Actor
-		Dialog sid p0229 End-Dialog
-		Actor sid p0230 End-Actor
+		Actor sid p0217 End-Actor
+		Dialog sid p0218 End-Dialog
+		Actor sid p0219 End-Actor
+		Dialog sid p0220 End-Dialog
+		Actor sid p0221 End-Actor
+		Dialog sid p0222 End-Dialog
+		Actor sid p0223 End-Actor
+		Dialog sid p0224 End-Dialog
+		Actor sid p0225 End-Actor
+		Dialog sid p0226 End-Dialog
+		Actor sid p0227 End-Actor
+		Dialog sid p0228 End-Dialog
+		Actor sid p0229 End-Actor
+		Dialog sid p0230 End-Dialog
 		Dialog sid p0231 End-Dialog
 		Dialog sid p0232 End-Dialog
-		Dialog sid p0233 End-Dialog
+		Actor sid p0233 End-Actor
 		Actor sid p0234 End-Actor
 		Actor sid p0235 End-Actor
 		Actor sid p0236 End-Actor
-		Actor sid p0237 End-Actor
-		Dialog sid p0238 End-Dialog
+		Dialog sid p0237 End-Dialog
+		Actor sid p0238 End-Actor
 		Actor sid p0239 End-Actor
 		Actor sid p0240 End-Actor
-		Actor sid p0241 End-Actor
-		Dialog sid p0242 End-Dialog
-		Actor sid p0243 End-Actor
-		Dialog sid p0244 End-Dialog
+		Dialog sid p0241 End-Dialog
+		Actor sid p0242 End-Actor
+		Dialog sid p0243 End-Dialog
+		Actor sid p0244 End-Actor
 		Actor sid p0245 End-Actor
 		Actor sid p0246 End-Actor
-		Actor sid p0247 End-Actor
+		Dialog sid p0247 End-Dialog
 		Dialog sid p0248 End-Dialog
 		Dialog sid p0249 End-Dialog
 		Dialog sid p0250 End-Dialog
 		Dialog sid p0251 End-Dialog
 		Dialog sid p0252 End-Dialog
 		Dialog sid p0253 End-Dialog
-		Dialog sid p0254 End-Dialog
-		Actor sid p0255 End-Actor
+		Actor sid p0254 End-Actor
+		Dialog sid p0255 End-Dialog
 		Dialog sid p0256 End-Dialog
 		Dialog sid p0257 End-Dialog
 		Dialog sid p0258 End-Dialog
-		Dialog sid p0259 End-Dialog
+		Actor sid p0259 End-Actor
 		Actor sid p0260 End-Actor
-		Actor sid p0261 End-Actor
+		Dialog sid p0261 End-Dialog
 		Dialog sid p0262 End-Dialog
-		Dialog sid p0263 End-Dialog
-		Actor sid p0264 End-Actor
+		Actor sid p0263 End-Actor
+		Dialog sid p0264 End-Dialog
 		Dialog sid p0265 End-Dialog
 		Dialog sid p0266 End-Dialog
-		Dialog sid p0267 End-Dialog
-		Actor sid p0268 End-Actor
-		Dialog sid p0269 End-Dialog
-		Actor sid p0270 End-Actor
-		Dialog sid p0271 End-Dialog
-		Actor sid p0272 End-Actor
+		Actor sid p0267 End-Actor
+		Dialog sid p0268 End-Dialog
+		Actor sid p0269 End-Actor
+		Dialog sid p0270 End-Dialog
+		Actor sid p0271 End-Actor
+		Dialog sid p0272 End-Dialog
 		Dialog sid p0273 End-Dialog
 		Dialog sid p0274 End-Dialog
 		Dialog sid p0275 End-Dialog
@@ -304,47 +304,47 @@ Status Review
 		Dialog sid p0278 End-Dialog
 		Dialog sid p0279 End-Dialog
 		Dialog sid p0280 End-Dialog
-		Dialog sid p0281 End-Dialog
-		Actor sid p0282 End-Actor
+		Actor sid p0281 End-Actor
+		Dialog sid p0282 End-Dialog
 		Dialog sid p0283 End-Dialog
 		Dialog sid p0284 End-Dialog
 		Dialog sid p0285 End-Dialog
-		Dialog sid p0286 End-Dialog
-		Actor sid p0287 End-Actor
-		Dialog sid p0288 End-Dialog
-		Actor sid p0289 End-Actor
+		Actor sid p0286 End-Actor
+		Dialog sid p0287 End-Dialog
+		Actor sid p0288 End-Actor
+		Dialog sid p0289 End-Dialog
 		Dialog sid p0290 End-Dialog
-		Dialog sid p0291 End-Dialog
-		Actor sid p0292 End-Actor
-		Dialog sid p0293 End-Dialog
-		Actor sid p0294 End-Actor
-		Dialog sid p0295 End-Dialog
-		Actor sid p0296 End-Actor
-		Dialog sid p0297 End-Dialog
-		Actor sid p0298 End-Actor
-		Dialog sid p0299 End-Dialog
-		Actor sid p0300 End-Actor
+		Actor sid p0291 End-Actor
+		Dialog sid p0292 End-Dialog
+		Actor sid p0293 End-Actor
+		Dialog sid p0294 End-Dialog
+		Actor sid p0295 End-Actor
+		Dialog sid p0296 End-Dialog
+		Actor sid p0297 End-Actor
+		Dialog sid p0298 End-Dialog
+		Actor sid p0299 End-Actor
+		Dialog sid p0300 End-Dialog
 		Dialog sid p0301 End-Dialog
 		Dialog sid p0302 End-Dialog
 		Dialog sid p0303 End-Dialog
-		Dialog sid p0304 End-Dialog
-		Actor sid p0305 End-Actor
-		Dialog sid p0306 End-Dialog
-		Actor sid p0307 End-Actor
-		Dialog sid p0308 End-Dialog
-		Actor sid p0309 End-Actor
-		Dialog sid p0310 End-Dialog
-		Actor sid p0311 End-Actor
-		Dialog sid p0312 End-Dialog
-		Actor sid p0313 End-Actor
-		Dialog sid p0314 End-Dialog
-		Actor sid p0315 End-Actor
-		Dialog sid p0316 End-Dialog
-		Actor sid p0317 End-Actor
+		Actor sid p0304 End-Actor
+		Dialog sid p0305 End-Dialog
+		Actor sid p0306 End-Actor
+		Dialog sid p0307 End-Dialog
+		Actor sid p0308 End-Actor
+		Dialog sid p0309 End-Dialog
+		Actor sid p0310 End-Actor
+		Dialog sid p0311 End-Dialog
+		Actor sid p0312 End-Actor
+		Dialog sid p0313 End-Dialog
+		Actor sid p0314 End-Actor
+		Dialog sid p0315 End-Dialog
+		Actor sid p0316 End-Actor
+		Dialog sid p0317 End-Dialog
 		Dialog sid p0318 End-Dialog
 		Dialog sid p0319 End-Dialog
-		Dialog sid p0320 End-Dialog
-		Actor sid p0321 End-Actor
+		Actor sid p0320 End-Actor
+		Dialog sid p0321 End-Dialog
 		Dialog sid p0322 End-Dialog
 		Dialog sid p0323 End-Dialog
 		Dialog sid p0324 End-Dialog
@@ -355,56 +355,56 @@ Status Review
 		Dialog sid p0329 End-Dialog
 		Dialog sid p0330 End-Dialog
 		Dialog sid p0331 End-Dialog
-		Dialog sid p0332 End-Dialog
-		Actor sid p0333 End-Actor
+		Actor sid p0332 End-Actor
+		Dialog sid p0333 End-Dialog
 		Dialog sid p0334 End-Dialog
 		Dialog sid p0335 End-Dialog
 		Dialog sid p0336 End-Dialog
 		Dialog sid p0337 End-Dialog
 		Dialog sid p0338 End-Dialog
-		Dialog sid p0339 End-Dialog
-		Actor sid p0340 End-Actor
-		Dialog sid p0341 End-Dialog
-		Actor sid p0342 End-Actor
+		Actor sid p0339 End-Actor
+		Dialog sid p0340 End-Dialog
+		Actor sid p0341 End-Actor
+		Dialog sid p0342 End-Dialog
 		Dialog sid p0343 End-Dialog
 		Dialog sid p0344 End-Dialog
 		Dialog sid p0345 End-Dialog
 		Dialog sid p0346 End-Dialog
 		Dialog sid p0347 End-Dialog
 		Dialog sid p0348 End-Dialog
-		Dialog sid p0349 End-Dialog
-		Actor sid p0350 End-Actor
+		Actor sid p0349 End-Actor
+		Dialog sid p0350 End-Dialog
 		Dialog sid p0351 End-Dialog
-		Dialog sid p0352 End-Dialog
-		Actor sid p0353 End-Actor
+		Actor sid p0352 End-Actor
+		Dialog sid p0353 End-Dialog
 		Dialog sid p0354 End-Dialog
 		Dialog sid p0355 End-Dialog
-		Dialog sid p0356 End-Dialog
-		Actor sid p0357 End-Actor
-		Dialog sid p0358 End-Dialog
-		Actor sid p0359 End-Actor
-		Dialog sid p0360 End-Dialog
-		Actor sid p0361 End-Actor
-		Dialog sid p0362 End-Dialog
-		Actor sid p0363 End-Actor
-		Dialog sid p0364 End-Dialog
-		Actor sid p0365 End-Actor
-		Dialog sid p0366 End-Dialog
-		Actor sid p0367 End-Actor
-		Dialog sid p0368 End-Dialog
-		Actor sid p0369 End-Actor
-		Dialog sid p0370 End-Dialog
-		Actor sid p0371 End-Actor
-		Dialog sid p0372 End-Dialog
-		Actor sid p0373 End-Actor
-		Dialog sid p0374 End-Dialog
+		Actor sid p0356 End-Actor
+		Dialog sid p0357 End-Dialog
+		Actor sid p0358 End-Actor
+		Dialog sid p0359 End-Dialog
+		Actor sid p0360 End-Actor
+		Dialog sid p0361 End-Dialog
+		Actor sid p0362 End-Actor
+		Dialog sid p0363 End-Dialog
+		Actor sid p0364 End-Actor
+		Dialog sid p0365 End-Dialog
+		Actor sid p0366 End-Actor
+		Dialog sid p0367 End-Dialog
+		Actor sid p0368 End-Actor
+		Dialog sid p0369 End-Dialog
+		Actor sid p0370 End-Actor
+		Dialog sid p0371 End-Dialog
+		Actor sid p0372 End-Actor
+		Dialog sid p0373 End-Dialog
+		Actor sid p0374 End-Actor
 		Actor sid p0375 End-Actor
-		Actor sid p0376 End-Actor
+		Dialog sid p0376 End-Dialog
 		Dialog sid p0377 End-Dialog
 		Dialog sid p0378 End-Dialog
 		Dialog sid p0379 End-Dialog
-		Dialog sid p0380 End-Dialog
-		Actor sid p0381 End-Actor
+		Actor sid p0380 End-Actor
+		Dialog sid p0381 End-Dialog
 		Dialog sid p0382 End-Dialog
 		Dialog sid p0383 End-Dialog
 		Dialog sid p0384 End-Dialog
@@ -419,8 +419,8 @@ Status Review
 		Dialog sid p0393 End-Dialog
 		Dialog sid p0394 End-Dialog
 		Dialog sid p0395 End-Dialog
-		Dialog sid p0396 End-Dialog
-		Actor sid p0397 End-Actor
+		Actor sid p0396 End-Actor
+		Dialog sid p0397 End-Dialog
 		Dialog sid p0398 End-Dialog
 		Dialog sid p0399 End-Dialog
 		Dialog sid p0400 End-Dialog
@@ -439,67 +439,67 @@ Status Review
 		Dialog sid p0413 End-Dialog
 		Dialog sid p0414 End-Dialog
 		Dialog sid p0415 End-Dialog
-		Dialog sid p0416 End-Dialog
-		Actor sid p0417 End-Actor
+		Actor sid p0416 End-Actor
+		Dialog sid p0417 End-Dialog
 		Dialog sid p0418 End-Dialog
 		Dialog sid p0419 End-Dialog
 		Dialog sid p0420 End-Dialog
 		Dialog sid p0421 End-Dialog
-		Dialog sid p0422 End-Dialog
+		Actor sid p0422 End-Actor
 		Actor sid p0423 End-Actor
-		Actor sid p0424 End-Actor
+		Dialog sid p0424 End-Dialog
 		Dialog sid p0425 End-Dialog
 		Dialog sid p0426 End-Dialog
 		Dialog sid p0427 End-Dialog
 		Dialog sid p0428 End-Dialog
 		Dialog sid p0429 End-Dialog
-		Dialog sid p0430 End-Dialog
-		Actor sid p0431 End-Actor
-		Dialog sid p0432 End-Dialog
-		Actor sid p0433 End-Actor
-		Dialog sid p0434 End-Dialog
-		Actor sid p0435 End-Actor
-		Dialog sid p0436 End-Dialog
-		Actor sid p0437 End-Actor
-		Dialog sid p0438 End-Dialog
-		Actor sid p0439 End-Actor
-		Dialog sid p0440 End-Dialog
-		Actor sid p0441 End-Actor
-		Dialog sid p0442 End-Dialog
-		Actor sid p0443 End-Actor
-		Dialog sid p0444 End-Dialog
-		Actor sid p0445 End-Actor
+		Actor sid p0430 End-Actor
+		Dialog sid p0431 End-Dialog
+		Actor sid p0432 End-Actor
+		Dialog sid p0433 End-Dialog
+		Actor sid p0434 End-Actor
+		Dialog sid p0435 End-Dialog
+		Actor sid p0436 End-Actor
+		Dialog sid p0437 End-Dialog
+		Actor sid p0438 End-Actor
+		Dialog sid p0439 End-Dialog
+		Actor sid p0440 End-Actor
+		Dialog sid p0441 End-Dialog
+		Actor sid p0442 End-Actor
+		Dialog sid p0443 End-Dialog
+		Actor sid p0444 End-Actor
+		Dialog sid p0445 End-Dialog
 		Dialog sid p0446 End-Dialog
 		Dialog sid p0447 End-Dialog
-		Dialog sid p0448 End-Dialog
-		Actor sid p0449 End-Actor
-		Dialog sid p0450 End-Dialog
-		Actor sid p0451 End-Actor
-		Dialog sid p0452 End-Dialog
-		Actor sid p0453 End-Actor
-		Dialog sid p0454 End-Dialog
-		Actor sid p0455 End-Actor
-		Dialog sid p0456 End-Dialog
-		Actor sid p0457 End-Actor
-		Dialog sid p0458 End-Dialog
-		Actor sid p0459 End-Actor
+		Actor sid p0448 End-Actor
+		Dialog sid p0449 End-Dialog
+		Actor sid p0450 End-Actor
+		Dialog sid p0451 End-Dialog
+		Actor sid p0452 End-Actor
+		Dialog sid p0453 End-Dialog
+		Actor sid p0454 End-Actor
+		Dialog sid p0455 End-Dialog
+		Actor sid p0456 End-Actor
+		Dialog sid p0457 End-Dialog
+		Actor sid p0458 End-Actor
+		Dialog sid p0459 End-Dialog
 		Dialog sid p0460 End-Dialog
 		Dialog sid p0461 End-Dialog
 		Dialog sid p0462 End-Dialog
-		Dialog sid p0463 End-Dialog
-		Actor sid p0464 End-Actor
-		Dialog sid p0465 End-Dialog
-		Actor sid p0466 End-Actor
-		Dialog sid p0467 End-Dialog
-		Actor sid p0468 End-Actor
+		Actor sid p0463 End-Actor
+		Dialog sid p0464 End-Dialog
+		Actor sid p0465 End-Actor
+		Dialog sid p0466 End-Dialog
+		Actor sid p0467 End-Actor
+		Dialog sid p0468 End-Dialog
 		Dialog sid p0469 End-Dialog
 		Dialog sid p0470 End-Dialog
-		Dialog sid p0471 End-Dialog
-		Actor sid p0472 End-Actor
-		Dialog sid p0473 End-Dialog
-		Actor sid p0474 End-Actor
-		Dialog sid p0475 End-Dialog
-		Actor sid p0476 End-Actor
+		Actor sid p0471 End-Actor
+		Dialog sid p0472 End-Dialog
+		Actor sid p0473 End-Actor
+		Dialog sid p0474 End-Dialog
+		Actor sid p0475 End-Actor
+		Dialog sid p0476 End-Dialog
 		Dialog sid p0477 End-Dialog
 		Dialog sid p0478 End-Dialog
 		Dialog sid p0479 End-Dialog
@@ -547,7 +547,6 @@ Status Review
 		Dialog sid p0521 End-Dialog
 		Dialog sid p0522 End-Dialog
 		Dialog sid p0523 End-Dialog
-		Dialog sid p0524 End-Dialog
-		Actor sid p0525 End-Actor
-		Dialog sid p0526 End-Dialog
+		Actor sid p0524 End-Actor
+		Dialog sid p0525 End-Dialog
 End-Template

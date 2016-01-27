@@ -1,0 +1,53 @@
+Template bk.samples 
+	Actor sid samples.sample1 End-Actor
+	Dialog sid samples.sample2 End-Dialog
+	Hymn sid samples.sample3 End-Hymn
+	Para sid samples.sample4 End-Para
+	Para role roles.alttext sid samples.sample5 End-Para
+	Para role roles.chant sid samples.sample6 End-Para
+	Para role roles.chapverse sid samples.sample7 End-Para
+	Para role roles.cover0 sid samples.sample8 End-Para
+	Para role roles.cover1 sid samples.sample9 End-Para
+	Para role roles.cover2 sid samples.sample10 End-Para
+	Para role roles.cover3 sid samples.sample11 End-Para
+	Para role roles.cover4 sid samples.sample12 End-Para
+	Para role roles.cover5 sid samples.sample13 End-Para
+	Para role roles.credits1 sid samples.sample14 End-Para
+	Para role roles.credits2 sid samples.sample15 End-Para
+	Para role roles.credits3 sid samples.sample16 End-Para
+	Para role roles.desig sid samples.sample17 End-Para
+	Para role roles.dialogzero sid samples.sample18 End-Para
+	Para role roles.heirmos sid samples.sample19 End-Para
+	Para role roles.hymnlinefirst sid samples.sample20 End-Para
+	Para role roles.hymnlinelast sid samples.sample21 End-Para
+	Para role roles.hymnlinemiddle sid samples.sample22 End-Para
+	Para role roles.inaudible sid samples.sample23 End-Para
+	Para role roles.melody sid samples.sample24 End-Para
+	Para role roles.missalreading sid samples.sample25 End-Para
+	Para role roles.missaltitle sid samples.sample26 End-Para
+	Para role roles.mixed sid samples.sample27 End-Para
+	Para role roles.mode sid samples.sample28 End-Para
+	Para role roles.name sid samples.sample29 End-Para
+	Para role roles.prayer sid samples.sample30 End-Para
+	Para role roles.prayerzero sid samples.sample31 End-Para
+	Para role roles.readingcenter sid samples.sample32 End-Para
+	Para role roles.readingcenterzero sid samples.sample33 End-Para
+	Para role roles.readingzero sid samples.sample34 End-Para
+	Para role roles.rubric sid samples.sample35 End-Para
+	Break line End_Break
+	Para role roles.source sid samples.sample36 End-Para
+	Break line End_Break
+	Break line End_Break
+	Para role roles.source0 sid samples.sample37 End-Para
+	Break line End_Break
+	Break line End_Break
+	Para role roles.titlezero sid samples.sample38 End-Para
+	Para role roles.versecenter sid samples.sample39 End-Para
+	Passthrough-Html "<b>I am pass through html</b>" END-Passthrough-Html
+	Reading sid samples.sample40 End-Reading
+	Rubric sid samples.sample41 End-Rubric
+	Sub-Title sid samples.sample42 End-Sub-Title
+	Title sid samples.sample43 End-Title
+	Verse sid samples.sample44 End-Verse
+	
+End-Template

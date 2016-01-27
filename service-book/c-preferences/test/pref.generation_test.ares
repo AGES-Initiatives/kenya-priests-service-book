@@ -10,7 +10,7 @@ A_Resource_Whose_Name = pref.generation_test
 
 // --- Convenient Settings for Website-- these values go to pref.website
 	generate.s.index = "yes"
-	generate.b.index = "no"
+	generate.b.index = "yes"
 	generate.c.index = "no"
 
 // HTML generation
@@ -38,7 +38,7 @@ A_Resource_Whose_Name = pref.generation_test
 // TMS Json generation -- you must also generate HTML in order for this to work
 // Output is in a folder named 'tms_json'.  The json produced is for the 
 // Translation Management System (TMS)
-generate.tms.json = "no"
+generate.tms.json = "yes"
 tms.json.format.set.include.key = "yes"
 tms.json.format.set.include.tag = "no"   // partially implemented
 tms.json.format.set.include.class = "no" // partially implemented

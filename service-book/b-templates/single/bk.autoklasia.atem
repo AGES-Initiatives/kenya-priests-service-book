@@ -1,6 +1,6 @@
 Template bk.autoklasia
 
-Status Review
+Status Draft
 
 	import autoklasia_en_uk_lash.*
 
@@ -26,7 +26,7 @@ Status Review
 
 		Dialog sid p0001 End-Dialog
 		Dialog sid p0002 End-Dialog
-		Dialog sid p0003 End-Dialog
+		Para role desig sid p0003 End-Para
 		Dialog sid p0004 End-Dialog
 		Dialog sid p0005 End-Dialog
 		Actor sid p0006 End-Actor
