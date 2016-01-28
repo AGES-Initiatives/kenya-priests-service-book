@@ -265,7 +265,7 @@ Status Draft
 		Dialog sid p0239 End-Dialog
 		Dialog sid p0240 End-Dialog
 		Dialog sid p0241 End-Dialog
-		Dialog sid p0242 End-Dialog
+		Actor sid p0242 End-Actor
 		Actor sid p0243 End-Actor
 		Dialog sid p0244 End-Dialog
 		Actor sid p0245 End-Actor
@@ -491,24 +491,4 @@ Status Draft
 		Dialog sid p0465 End-Dialog
 		Dialog sid p0466 End-Dialog
 		Dialog sid p0467 End-Dialog
-		Dialog sid p0468 End-Dialog
-		Dialog sid p0469 End-Dialog
-		Dialog sid p0470 End-Dialog
-		Dialog sid p0471 End-Dialog
-		Dialog sid p0472 End-Dialog
-		Dialog sid p0473 End-Dialog
-		Dialog sid p0474 End-Dialog
-		Dialog sid p0475 End-Dialog
-		Dialog sid p0476 End-Dialog
-		Dialog sid p0477 End-Dialog
-		Dialog sid p0478 End-Dialog
-		Dialog sid p0479 End-Dialog
-		Actor sid p0480 End-Actor
-		Dialog sid p0481 End-Dialog
-		Dialog sid p0482 End-Dialog
-		Dialog sid p0483 End-Dialog
-		Dialog sid p0484 End-Dialog
-		Dialog sid p0485 End-Dialog
-		Dialog sid p0486 End-Dialog
-		Dialog sid p0487 End-Dialog
 End-Template

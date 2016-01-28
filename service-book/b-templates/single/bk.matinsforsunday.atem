@@ -350,13 +350,13 @@ Status Draft
 		Dialog sid p0324 End-Dialog
 		Actor sid p0325 End-Actor
 		Dialog sid p0326 End-Dialog
-		Dialog sid p0327 End-Dialog
-		Dialog sid p0328 End-Dialog
+		Actor sid p0327 End-Actor
+		Actor sid p0328 End-Actor
 		Dialog sid p0329 End-Dialog
 		Dialog sid p0330 End-Dialog
 		Dialog sid p0331 End-Dialog
 		Dialog sid p0332 End-Dialog
-		Dialog sid p0333 End-Dialog
+		Actor sid p0333 End-Actor
 		Dialog sid p0334 End-Dialog
 		Dialog sid p0335 End-Dialog
 		Actor sid p0336 End-Actor
@@ -417,8 +417,8 @@ Status Draft
 		Actor sid p0391 End-Actor
 		Dialog sid p0392 End-Dialog
 		Dialog sid p0393 End-Dialog
-		Actor sid p0394 End-Actor
-		Actor sid p0395 End-Actor
+		Dialog sid p0394 End-Dialog
+		Dialog sid p0395 End-Dialog
 		Actor sid p0396 End-Actor
 		Actor sid p0397 End-Actor
 		Dialog sid p0398 End-Dialog
@@ -744,40 +744,4 @@ Status Draft
 		Dialog sid p0718 End-Dialog
 		Dialog sid p0719 End-Dialog
 		Dialog sid p0720 End-Dialog
-		Dialog sid p0721 End-Dialog
-		Dialog sid p0722 End-Dialog
-		Dialog sid p0723 End-Dialog
-		Dialog sid p0724 End-Dialog
-		Dialog sid p0725 End-Dialog
-		Dialog sid p0726 End-Dialog
-		Dialog sid p0727 End-Dialog
-		Dialog sid p0728 End-Dialog
-		Dialog sid p0729 End-Dialog
-		Dialog sid p0730 End-Dialog
-		Dialog sid p0731 End-Dialog
-		Dialog sid p0732 End-Dialog
-		Dialog sid p0733 End-Dialog
-		Dialog sid p0734 End-Dialog
-		Dialog sid p0735 End-Dialog
-		Dialog sid p0736 End-Dialog
-		Dialog sid p0737 End-Dialog
-		Dialog sid p0738 End-Dialog
-		Dialog sid p0739 End-Dialog
-		Dialog sid p0740 End-Dialog
-		Dialog sid p0741 End-Dialog
-		Dialog sid p0742 End-Dialog
-		Dialog sid p0743 End-Dialog
-		Dialog sid p0744 End-Dialog
-		Actor sid p0745 End-Actor
-		Dialog sid p0746 End-Dialog
-		Dialog sid p0747 End-Dialog
-		Dialog sid p0748 End-Dialog
-		Dialog sid p0749 End-Dialog
-		Dialog sid p0750 End-Dialog
-		Dialog sid p0751 End-Dialog
-		Dialog sid p0752 End-Dialog
-		Dialog sid p0753 End-Dialog
-		Dialog sid p0754 End-Dialog
-		Dialog sid p0755 End-Dialog
-		Dialog sid p0756 End-Dialog
 End-Template

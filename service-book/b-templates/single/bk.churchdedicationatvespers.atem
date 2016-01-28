@@ -83,6 +83,6 @@ Status Draft
 		Dialog sid p0057 End-Dialog
 		Dialog sid p0058 End-Dialog
 		Dialog sid p0059 End-Dialog
-		Dialog sid p0060 End-Dialog
+		Actor sid p0060 End-Actor
 		Dialog sid p0061 End-Dialog
 End-Template

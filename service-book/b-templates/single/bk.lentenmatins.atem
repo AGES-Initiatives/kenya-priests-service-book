@@ -112,7 +112,7 @@ Status Draft
 		Dialog sid p0086 End-Dialog
 		Dialog sid p0087 End-Dialog
 		Dialog sid p0088 End-Dialog
-		Dialog sid p0089 End-Dialog
+		Actor sid p0089 End-Actor
 		Dialog sid p0090 End-Dialog
 		Dialog sid p0091 End-Dialog
 		Actor sid p0092 End-Actor
